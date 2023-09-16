@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **JS, React, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://silver-my-portfolio.netlify.app/#home](https://silver-my-portfolio.netlify.app/#home)
+- 👨‍💻 All of my projects are available at [my portfolio](https://silver-my-portfolio.netlify.app/#home)
 
 - 📫 How to reach me **jonasniyazson@hotmail.com**
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:EU:fb1022f1-ff35-43f7-9a6d-e76ec07a5777](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fb1022f1-ff35-43f7-9a6d-e76ec07a5777)
+- 📄 Know about my experiences [resume](https://acrobat.adobe.com/id/urn:aaid:sc:EU:fb1022f1-ff35-43f7-9a6d-e76ec07a5777)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
