@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JS, React, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://silver-my-portfolio.netlify.app/#home)
+- 👨‍💻 All of my projects are available at [my portfolio](https://my-easy-portfolio.netlify.app/)
 
 - 📫 How to reach me **jonasniyazson@hotmail.com**
 
